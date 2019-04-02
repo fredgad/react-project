@@ -1,0 +1,11 @@
+
+.item {
+    border: 3px solid rgb(221, 22, 22);
+    border-radius: 13.333%;
+    transition: 1s;
+    margin-top: 3px;
+}
+.item img {
+    width: 75px;
+    border-radius: 50%;
+}
